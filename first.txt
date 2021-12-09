@@ -3,3 +3,4 @@ gitの練習
 明日は金曜日です。
 .git add
 .git rm
+git status
